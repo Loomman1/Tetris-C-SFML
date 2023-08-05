@@ -79,6 +79,7 @@ int main()
             }
         }
         //comm
+        //commmamam
         int n = 0;
         if(a[0].x==0)
         for (int i = 0; i < 4; i++)
